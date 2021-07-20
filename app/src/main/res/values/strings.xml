@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+
+    <string name="do_you_wish_to_convert_data_to_a_form_in_which_others_can_t_see_or_access_it">Do You Wish To Convert Data To A Form In Which Others Can’t See Or Access It?</string>
+    <string name="if_your_answer_is_yes_then_this_software_is_definitely_for_you_if_encrypt_is_the_option_that_takes_the_input_string_and_encrypts_it_with_the_password_entered_bt_youy_and_encrypts_it_thus_making_it_unreadable_for_others_and_don_t_worry_you_will_get_the_actual_data_back_for_that_select_decrypt_option_which_gives_back_your_actual_data_i_e_decrypts_it">If Your Answer Is Yes Then This Software is Definitely For You. If “Encrypt” is the option that takes the input string and encrypts it with the password entered bt youy and encrypts it. Thus, making it unreadable for others. And Don’t Worry You will get the actual data back for that select “Decrypt” option which gives back your actual data i.e decrypts it.</string>
+    <string name="the_application_also_don_t_stores_your_password_so_its_definitely_safe_so_lets_start">The Application Also Don’t Stores Your Password So Its Definitely Safe. So Lets Start…..</string>
+    <string name="start_the_app">Start The App</string>
+
+
+    <string name="text">text</string>
+
+
+
+
+
+
+    <string name="welcome_to_encryption_and_decryption_application">welcome_to_encryption_and_decryption_application</string>
+    <string name="input_text">INPUT TEXT</string>
+    <string name="_0">0</string>
+    <string name="delete">DELETE</string>
+    <string name="copy">COPY</string>
+    <string name="secret_key_8_characters">SECRET KEY(8 characters)</string>
+    <string name="encrypted_text">ENCRYPTED TEXT</string>
+
+
+    <string name="decrypt">DECRYPT</string>
+    <string name="encrypt">ENCRYPT</string>
+    <string name="string_input_text" />
+    <string name="decrypted_text">decrypted_text</string>
+    <string name="share">Share</string>
+    <string name="text_to_encrypt">Text To Encrypt</string>
+    <string name="text_to_decrypt">Text To Decrypt</string>
+    <string name="siddhantsingh01021998_gmail_com">siddhantsingh01021998@gmail.com</string>
+    <string name="welcome_to_cryptography_application_that_encrypts_and_decrypts_your_data">Welcome To Cryptography Application That Encrypts And Decrypts Your Data</string>
+
+</resources>

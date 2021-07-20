@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/backforproject"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_to_cryptography_application_that_encrypts_and_decrypts_your_data"
+        android:textColor="@color/teal_700"
+        android:textSize="25sp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="@string/do_you_wish_to_convert_data_to_a_form_in_which_others_can_t_see_or_access_it"
+        android:textColor="@color/green"
+        android:textSize="19sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="@string/if_your_answer_is_yes_then_this_software_is_definitely_for_you_if_encrypt_is_the_option_that_takes_the_input_string_and_encrypts_it_with_the_password_entered_bt_youy_and_encrypts_it_thus_making_it_unreadable_for_others_and_don_t_worry_you_will_get_the_actual_data_back_for_that_select_decrypt_option_which_gives_back_your_actual_data_i_e_decrypts_it"
+        android:textColor="#A52AA3"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/the_application_also_don_t_stores_your_password_so_its_definitely_safe_so_lets_start"
+        android:textColor="#4C0CDC"
+        android:layout_marginTop="20dp"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_the_app"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:clickable="true"
+        android:layout_marginTop="30dp"
+        android:focusable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="@string/siddhantsingh01021998_gmail_com"
+        android:textColor="@color/red"/>
+
+
+
+</LinearLayout>
